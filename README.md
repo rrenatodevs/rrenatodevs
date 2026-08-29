@@ -15,7 +15,7 @@
 - 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na UNICID
 - 💻 Estudando **HTML, CSS, JavaScript, Python, C e SQL**
 - 🌱 Aprendendo **JavaScript** para criar sites mais dinâmicos e animados
-- 📫 Como me encontrar: <a href="https://instagram.com/renatoale_" target="_blank"><img src="https://img.shields.io/badge/@renatoale__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+- 📫 Como me encontrar: <a href="https://instagram.com/renatoale_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/@renatoale__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 - ⚡ Apaixonado por tecnologia, resolução de problemas e criar projetos práticos
 
 ---
@@ -65,13 +65,13 @@
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://instagram.com/renatoale_">
+  <a href="https://instagram.com/renatoale_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:renatoalexandre221@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=renatoalexandre221@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rrenatodevs">
+  <a href="https://github.com/rrenatodevs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
