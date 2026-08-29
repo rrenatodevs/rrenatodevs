@@ -13,10 +13,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na UNICID
-- 💻 Estudando **HTML, CSS, JavaScript e Python**
+- 💻 Estudando **HTML, CSS, JavaScript, Python, C e SQL**
 - 🌱 Aprendendo **JavaScript** para criar sites mais dinâmicos e animados
-- 🛠️ Já construí projetos com **Flask, SQLAlchemy e SQLite**
-- 📫 Como me encontrar: **renatoalexandre221@gmail.com**
+- 📫 Como me encontrar: **Instagram [@renatoale_](https://instagram.com/renatoale_)**
 - ⚡ Apaixonado por tecnologia, resolução de problemas e criar projetos práticos
 
 ---
@@ -24,7 +23,7 @@
 ### 🧰 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,sqlite,vscode,git,github" alt="Ícones de tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,vscode,git,github" alt="Ícones de tecnologias" />
 </p>
 
 ---
@@ -34,7 +33,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🔐 <a href="https://github.com/rrenatodevs/Projeto-Login-Flask">Projeto Login Flask</a></h4>
+      <h4>🔐 <a href="https://github.com/rrenatodevs/Projeto-Login">Projeto Login</a></h4>
       <p>Sistema completo de login construído com Flask, SQLAlchemy e SQLite — meu projeto mais completo até hoje.</p>
       <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask" />
       <img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white" />
@@ -48,13 +47,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>📱 <a href="https://github.com/rrenatodevs/Projeto-Android">Projeto Android</a></h4>
-      <p>Site responsivo desenvolvido em HTML e CSS a partir do curso do Gustavo Guanabara (CursoemVídeo).</p>
+      <h4>📚 <a href="https://github.com/rrenatodevs/curso-html-css-fundamentos">Estudos de HTML e CSS</a></h4>
+      <p>Exercícios e projetos práticos de HTML5 e CSS3.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>📚 <a href="https://github.com/rrenatodevs/Python">Estudos de Python</a></h4>
+      <h4>🐍 <a href="https://github.com/rrenatodevs/curso-python-fundamentos">Estudos de Python</a></h4>
       <p>Exercícios e projetos práticos do curso Python 3 completo: do básico ao avançado.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     </td>
@@ -63,22 +62,12 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rrenatodevs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrenatodevs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrenatodevs&theme=tokyonight&hide_border=true" alt="Streak de contribuições" />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
+  <a href="https://instagram.com/renatoale_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:renatoalexandre221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
