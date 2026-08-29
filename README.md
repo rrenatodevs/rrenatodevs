@@ -4,10 +4,6 @@
   Desenvolvedor front-end em formação | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rrenatodevs&label=Visitas%20ao%20perfil&color=blueviolet&style=flat" alt="Visitas ao perfil" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
@@ -53,6 +49,14 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h4>📱 <a href="https://github.com/rrenatodevs/Projeto-Android">Projeto Android</a></h4>
+      <p>Site responsivo desenvolvido em HTML e CSS a partir do curso do Gustavo Guanabara (CursoemVídeo).</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -68,15 +72,11 @@
       <p>Exercícios e projetos práticos de HTML5 e CSS3.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/rrenatodevs/curso-html-css-fundamentos?label=último%20commit&color=success" />
     </td>
     <td width="50%">
       <h4>🐍 <a href="https://github.com/rrenatodevs/curso-python-fundamentos">Estudos de Python</a></h4>
       <p>Exercícios e projetos práticos do curso Python 3 completo: do básico ao avançado.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/rrenatodevs/curso-python-fundamentos?label=último%20commit&color=success" />
     </td>
   </tr>
 </table>
