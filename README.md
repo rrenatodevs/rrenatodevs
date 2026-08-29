@@ -15,7 +15,7 @@
 - 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na UNICID
 - 💻 Estudando **HTML, CSS, JavaScript, Python, C e SQL**
 - 🌱 Aprendendo **JavaScript** para criar sites mais dinâmicos e animados
-- 📫 Como me encontrar: **Instagram [@renatoale_](https://instagram.com/renatoale_)**
+- 📫 Como me encontrar: <a href="https://instagram.com/renatoale_"><img src="https://img.shields.io/badge/@renatoale__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 - ⚡ Apaixonado por tecnologia, resolução de problemas e criar projetos práticos
 
 ---
