@@ -49,10 +49,16 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" colspan="2">
+    <tr>
+    <td width="50%">
       <h4>📱 <a href="https://github.com/rrenatodevs/Projeto-Android">Projeto Android</a></h4>
       <p>Site responsivo desenvolvido em HTML e CSS a partir do curso do Gustavo Guanabara (CursoemVídeo).</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h4>📜 <a href="https://github.com/rrenatodevs/Projeto-Cordel">Projeto Cordel</a></h4>
+      <p>Site desenvolvido em HTML e CSS a partir do curso do Gustavo Guanabara (CursoemVídeo).</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </td>
